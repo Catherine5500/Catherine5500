@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanlu (Catherine) Yang
 - 👀 I’m interested in applied statistics, machine learning in general 
-- 🌱 I’m currently achieving my PhD degree 
+- 🌱 I’m currently chasing my PhD degree 
 - 💞️ I’m looking to collaborate on ... (suprise me!)
 - 📫 How to reach me catherineyang5200@gmail.com
 
